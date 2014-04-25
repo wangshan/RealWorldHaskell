@@ -1,1 +1,8 @@
 c4
+.DS_Store
+*.hsc
+*.hi
+*.o
+*.tix
+*.html
+.hpc
