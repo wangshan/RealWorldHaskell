@@ -1,8 +1,9 @@
-c4
 .DS_Store
 *.hsc
 *.hi
 *.o
+*.a
+*.so
 *.tix
 *.html
 .hpc
